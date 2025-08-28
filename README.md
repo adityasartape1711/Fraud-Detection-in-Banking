@@ -67,9 +67,18 @@ Evaluation Metrics:
 
 ## Results
 
-* Achieved **XX% accuracy** with **Random Forest / XGBoost**.
-* ROC-AUC Score: **XX%**
-* Precision-Recall tradeoff optimized to minimize false negatives (missed frauds).
+* Training Logistic Regression...
+   Accuracy: 1.0000
+   F1-Score: 0.9985
+   AUC: 0.9992
+
+ * Training Random Forest (Fast Config)...
+   Accuracy: 1.0000
+   F1-Score: 0.9985
+   AUC: 0.9995
+
+ * Best Model: Random Forest
+   AUC Score: 0.9995
 
 ---
 
